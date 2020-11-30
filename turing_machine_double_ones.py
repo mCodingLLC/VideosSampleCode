@@ -25,6 +25,9 @@ def main():
                            ('e', '0'): ('i', '0', 1),
                        })
     tm.initialize({i: '1' for i in range(5)})
+    # or a nicer way to input a string
+    # tm.initialize(dict(enumerate("11111")))
+
 
     while not tm.halted:
         tm.print()
