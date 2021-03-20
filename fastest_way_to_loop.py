@@ -52,6 +52,14 @@ def sum_range(n=100_000_000):
     return sum(range(n))
 
 
+def sum_generator(n=100_000_000):
+    return sum(i for i in range(n))
+
+
+def sum_list_comp(n=100_000_000):
+    return sum([i for i in range(n)])
+
+
 def sum_numpy(n=100_000_000):
     return numpy.sum(numpy.arange(n))
 
@@ -67,6 +75,8 @@ def main():
     # print('for test\t\t', timeit.timeit(for_loop_with_test, number=1))
     # print('for inc+test\t', timeit.timeit(for_loop_with_increment_and_test, number=1))
     print('sum range\t\t', timeit.timeit(sum_range, number=1))
+    print('sum generator\t\t', timeit.timeit(sum_generator, number=1))
+    print('sum list comp\t\t', timeit.timeit(sum_list_comp, number=1))
     print('numpy sum\t\t', timeit.timeit(sum_numpy, number=1))
     print('math sum\t\t', timeit.timeit(sum_math, number=1))
 
