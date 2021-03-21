@@ -64,6 +64,10 @@ def sum_numpy(n=100_000_000):
     return numpy.sum(numpy.arange(n))
 
 
+def sum_numpy_python_range(n=100_000_000):
+    return numpy.sum(range(n))
+
+
 def sum_math(n=100_000_000):
     return (n * (n - 1)) // 2
 
@@ -78,6 +82,7 @@ def main():
     print('sum generator\t\t', timeit.timeit(sum_generator, number=1))
     print('sum list comp\t\t', timeit.timeit(sum_list_comp, number=1))
     print('numpy sum\t\t', timeit.timeit(sum_numpy, number=1))
+    print('numpy sum python range\t\t', timeit.timeit(sum_numpy_python_range, number=1))
     print('math sum\t\t', timeit.timeit(sum_math, number=1))
 
 
