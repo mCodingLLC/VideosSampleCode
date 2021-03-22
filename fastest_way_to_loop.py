@@ -61,7 +61,7 @@ def sum_list_comp(n=100_000_000):
 
 
 def sum_numpy(n=100_000_000):
-    return numpy.sum(numpy.arange(n))
+    return numpy.sum(numpy.arange(n, dtype=numpy.int64))
 
 
 def sum_numpy_python_range(n=100_000_000):
