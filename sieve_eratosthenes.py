@@ -7,7 +7,7 @@ def primes_less_than(n: int) -> list[int]:
     is_prime[0] = False
     is_prime[1] = False
 
-    for i in range(2, isqrt(n)):
+    for i in range(2, isqrt(n)+1):
         if is_prime[i]:
             for x in range(i*i, n, i):
                 is_prime[x] = False
