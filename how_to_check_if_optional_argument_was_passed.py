@@ -15,7 +15,7 @@ def tempting(arr: list, x: int = None, options: dict = None):
 def normal(arr: list, x: int = None, options: dict = None):
     x = x if x is not None else len(arr)
 
-    if options is not None:
+    if options is None:
         options = {"option": "value"}
 
 
