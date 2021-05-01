@@ -1,3 +1,6 @@
+from typing import Optional
+
+
 # References:
 # https://projecteuler.net/problem=122
 # https://graal.ens-lyon.fr/~yrobert/algo/additionchains1.pdf
@@ -5,7 +8,7 @@
 
 class EfficientExponentiation:
 
-    def __init__(self, step_limit: int = None):
+    def __init__(self, step_limit: Optional[int] = None):
         initial_chain: tuple[int, ...] = (1,)
         self._min_mult_chain: dict[int, tuple[int, ...]] = {1: initial_chain}
         self._cached_chains: set[tuple[int, ...]] = {initial_chain}
