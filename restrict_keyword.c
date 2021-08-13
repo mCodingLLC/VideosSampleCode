@@ -30,12 +30,12 @@ void vector_add_allow_overlapping(int64_t *dst, const int64_t *src1, const int64
 
 void fib_upto_n(int64_t *dst, size_t n)
 {
-    dst[0] = 0;
     if (n == 0)
         return;
-    dst[1] = 1;
+    dst[0] = 0;
     if (n == 1)
         return;
+    dst[1] = 1;
     vector_add_allow_overlapping(dst + 2, dst, dst + 1, n - 2);
 }
 
