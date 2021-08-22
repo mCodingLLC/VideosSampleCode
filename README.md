@@ -82,3 +82,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 68 | [Skyline Problem with C++ Solution Explained](https://youtu.be/XhzHXj7wrwo) |
 | 69 | [A fun game show probability problem \| Bonus cash stop riddle](https://youtu.be/WWAoh3XfWzA) |
 | 70 | [restrict: the only C keyword with no C++ equivalent](https://youtu.be/TBGu3NNpF1Q) |
+| 71 | [Should you use "not not x" instead of "bool(x)" in Python?](https://youtu.be/9gEX7jesV34) |
