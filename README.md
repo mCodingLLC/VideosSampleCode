@@ -85,3 +85,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 71 | [Should you use "not not x" instead of "bool(x)" in Python?](https://youtu.be/9gEX7jesV34) |
 | 72 | [Multiple Assignments in Python](https://youtu.be/ZjoZKXel618) |
 | 73 | [Why does Python even allow this? Chained comparison jank.](https://youtu.be/M3GAJ1AIIlA) |
+| 74 | [Automated Testing in Python with pytest, tox, and GitHub Actions](https://youtu.be/DhUpxWjOhME) |
