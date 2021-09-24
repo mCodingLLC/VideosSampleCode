@@ -87,3 +87,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 73 | [Why does Python even allow this? Chained comparison jank.](https://youtu.be/M3GAJ1AIIlA) |
 | 74 | [Automated Testing in Python with pytest, tox, and GitHub Actions](https://youtu.be/DhUpxWjOhME) |
 | 75 | [You can pip install straight from GitHub](https://youtu.be/r-wwMk5faXo) |
+| 76 | [\_\_new\_\_ vs \_\_init\_\_ in Python](https://youtu.be/-zsV0_QrfTw) |
