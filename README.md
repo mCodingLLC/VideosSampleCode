@@ -88,3 +88,5 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 74 | [Automated Testing in Python with pytest, tox, and GitHub Actions](https://youtu.be/DhUpxWjOhME) |
 | 75 | [You can pip install straight from GitHub](https://youtu.be/r-wwMk5faXo) |
 | 76 | [\_\_new\_\_ vs \_\_init\_\_ in Python](https://youtu.be/-zsV0_QrfTw) |
+| 77 | [Mind-bending metaclasses - adding function overloads to Python](https://youtu.be/yWzMiaqnpkI) |
+
