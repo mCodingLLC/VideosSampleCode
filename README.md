@@ -1,4 +1,4 @@
-This repository contains all the code for the mCoding sample coding videos.
+This repository contains all the source code shown in my mCoding programming videos on YouTube.
 
 All code in this repository is licensed under the open source [MIT license](https://choosealicense.com/licenses/mit/).
 You don't need to ask permission to use it, feel free!
