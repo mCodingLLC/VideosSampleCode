@@ -90,3 +90,5 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 76 | [src](videos/076_new_vs_init_in_python) | [\_\_new\_\_ vs \_\_init\_\_ in Python](https://youtu.be/-zsV0_QrfTw) |
 | 77 | [src](videos/077_metaclasses_in_python) | [Mind-bending metaclasses - adding function overloads to Python](https://youtu.be/yWzMiaqnpkI) |
 | 78 | [src](videos/078_pre_commit_the_best_way_to_keep_your_repos_tidy) | [The best way to keep your repos tidy.](https://youtu.be/psjz6rwzMdk) |
+| 79 | [src](videos/079_which_dataclass_is_best) | [Which Python @dataclass is best? Feat. Pydantic, NamedTuple, attrs...](https://youtu.be/vCLetdhswMg) |
+| 80 | [src](videos/080_python_slots) | [Python \_\_slots\_\_, slots, and object layout](https://youtu.be/Iwf17zsDAnY) |
