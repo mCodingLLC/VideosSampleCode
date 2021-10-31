@@ -92,3 +92,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 78 | [src](videos/078_pre_commit_the_best_way_to_keep_your_repos_tidy) | [The best way to keep your repos tidy.](https://youtu.be/psjz6rwzMdk) |
 | 79 | [src](videos/079_which_dataclass_is_best) | [Which Python @dataclass is best? Feat. Pydantic, NamedTuple, attrs...](https://youtu.be/vCLetdhswMg) |
 | 80 | [src](videos/080_python_slots) | [Python \_\_slots\_\_, slots, and object layout](https://youtu.be/Iwf17zsDAnY) |
+| 81 | [src](videos/081_cache_and_branch_prediction) | [Your code could be 2x faster! Gains from cache locality and branch predictability](https://youtu.be/EmzdmqUWq3o) |
