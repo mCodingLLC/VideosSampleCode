@@ -15,10 +15,10 @@ def cases_to_df(data):
 def make_plots(df):
     print(df.index)
     fig = px.bar(df[['create', 'getattr', 'setattr']], labels=dict(value='time (ns)'))
-    fig.write_html('time-results.html')
+    fig.show()
 
     fig = px.bar(df['mem'], labels=dict(value='mem (bytes)'))
-    fig.write_html('mem-results.html')
+    fig.show()
 
     sdf = df[support_keys].reset_index()
     def TF(v):
@@ -43,7 +43,7 @@ def make_plots(df):
                    ),
         columnwidth=[1.5] + [1]*(len(sdf.columns)-1),
     )])
-    fig.write_html('features-results.html')
+    fig.show()
 
 
 def main():
