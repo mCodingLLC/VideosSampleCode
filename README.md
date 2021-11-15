@@ -93,4 +93,5 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 79 | [src](videos/079_which_dataclass_is_best) | [Which Python @dataclass is best? Feat. Pydantic, NamedTuple, attrs...](https://youtu.be/vCLetdhswMg) |
 | 80 | [src](videos/080_python_slots) | [Python \_\_slots\_\_, slots, and object layout](https://youtu.be/Iwf17zsDAnY) |
 | 81 | [src](videos/081_cache_and_branch_prediction) | [Your code could be 2x faster! Gains from cache locality and branch predictability](https://youtu.be/EmzdmqUWq3o) |
-| 81 | [src](videos/082_avoiding_import_loops_in_python) | [Avoiding import loops in Python](https://youtu.be/UnKa_t-M_kM) |
+| 82 | [src](videos/082_avoiding_import_loops_in_python) | [Avoiding import loops in Python](https://youtu.be/UnKa_t-M_kM) |
+| 83 | [src](videos/083_signs_youre_a_python_noob) | [25 nooby Python habits you need to ditch](https://youtu.be/qUeud6DvOWI) |
