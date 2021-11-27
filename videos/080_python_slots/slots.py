@@ -70,7 +70,11 @@ def slots_class_example():
 
 
 def getsize(obj_0):
-    """Recursively iterate to sum size of object & members."""
+    """Recursively iterate to sum size of object & members.
+    
+    Note::
+        Adopted from https://github.com/bosswissam/pysize
+    """
     ZERO_DEPTH_BASES = (str, bytes, Number, range, bytearray)
     _seen_ids = set()
 
