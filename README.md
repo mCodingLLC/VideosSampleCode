@@ -95,3 +95,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 81 | [src](videos/081_cache_and_branch_prediction) | [Your code could be 2x faster! Gains from cache locality and branch predictability](https://youtu.be/EmzdmqUWq3o) |
 | 82 | [src](videos/082_avoiding_import_loops_in_python) | [Avoiding import loops in Python](https://youtu.be/UnKa_t-M_kM) |
 | 83 | [src](videos/083_signs_youre_a_python_noob) | [25 nooby Python habits you need to ditch](https://youtu.be/qUeud6DvOWI) |
+| 84 | [src](videos/084_classmethod_vs_staticmethod_in_python) | [Python's staticmethod and classmethod, what are they for?](https://youtu.be/SXApHXsDe8I) |
