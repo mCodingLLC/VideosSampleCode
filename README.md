@@ -96,3 +96,5 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 82 | [src](videos/082_avoiding_import_loops_in_python) | [Avoiding import loops in Python](https://youtu.be/UnKa_t-M_kM) |
 | 83 | [src](videos/083_signs_youre_a_python_noob) | [25 nooby Python habits you need to ditch](https://youtu.be/qUeud6DvOWI) |
 | 84 | [src](videos/084_classmethod_vs_staticmethod_in_python) | [Python's staticmethod and classmethod, what are they for?](https://youtu.be/SXApHXsDe8I) |
+| 85 | no src | [Building a Python app with Anvil to email me if my website goes down](https://youtu.be/mhnsYl6YIy0) |
+| 86 | [src](videos/086_nooby_cpp_habits) | [31 nooby C++ habits you need to ditch](https://youtu.be/i_wDa2AS_8w) |
