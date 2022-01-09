@@ -10,7 +10,7 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 
 
 | N | Code | Video | 
-| --- | --- |--- |
+| -- | --- |--- |
 | 0 | [src](videos/000_dictionary_union__or_pipe_operator__new_feature_in_python_39) | [Dictionary Union \(or/pipe operator\) - New Feature in Python 3.9](https://youtu.be/pG2Y1PQisAM) |
 | 1 | [src](videos/001_doeblin_tree) | [Doeblin Tree](https://youtu.be/2gqoySrawps) |
 | 2 | [src](videos/002_goodbye_list_type_hinting_standard_collections_new_in_python_39) | [Goodbye, List! Type hinting standard collections - New in Python 3.9](https://youtu.be/SMXsIX3PZ5w) |
@@ -98,3 +98,5 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 84 | [src](videos/084_classmethod_vs_staticmethod_in_python) | [Python's staticmethod and classmethod, what are they for?](https://youtu.be/SXApHXsDe8I) |
 | 85 | no src | [Building a Python app with Anvil to email me if my website goes down](https://youtu.be/mhnsYl6YIy0) |
 | 86 | [src](videos/086_nooby_cpp_habits) | [31 nooby C++ habits you need to ditch](https://youtu.be/i_wDa2AS_8w) |
+| 87 | no src | [A technical interview with the creator of C++, Bjarne Stroustrup](https://youtu.be/wafpbewQZGg) |
+| 88 | [src](videos/088_endl_vs_newline_multithreaded) | [Does std::endl fix your multithreaded prints? (C++)](https://youtu.be/gKwkpe8jmGo) |
