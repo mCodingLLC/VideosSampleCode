@@ -1,0 +1,8 @@
+[flake8]
+# other options
+
+[flake8:local-plugins]
+extension =
+    MCOD1 = flake8_mcoding:MCodingASTPlugin
+paths =
+    ./
