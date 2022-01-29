@@ -101,3 +101,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 87 | no src | [A technical interview with the creator of C++, Bjarne Stroustrup](https://youtu.be/wafpbewQZGg) |
 | 88 | [src](videos/088_endl_vs_newline_multithreaded) | [Does std::endl fix your multithreaded prints? (C++)](https://youtu.be/gKwkpe8jmGo) |
 | 89 | [src](videos/089_custom_linting_with_ast) | [Analyzing Python Code from Python - AST Parsing and  Custom Lint Checks](https://youtu.be/OjPT15y2EpE) |
+| 90 | [src](videos/090_match_statement_cst) | [The real purpose of Python's match statement, feat. CSTs](https://youtu.be/ASRqxDGutpA) |
