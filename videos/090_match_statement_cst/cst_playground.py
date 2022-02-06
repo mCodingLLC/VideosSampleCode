@@ -28,7 +28,7 @@ _switch_dict = {
 
 
 def switch_dict_example(x):
-    do_next = _switch_dict.get(x, default=default)
+    do_next = _switch_dict.get(x, default)
     do_next()
 
 
