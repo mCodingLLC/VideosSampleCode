@@ -102,3 +102,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 88 | [src](videos/088_endl_vs_newline_multithreaded) | [Does std::endl fix your multithreaded prints? (C++)](https://youtu.be/gKwkpe8jmGo) |
 | 89 | [src](videos/089_custom_linting_with_ast) | [Analyzing Python Code from Python - AST Parsing and  Custom Lint Checks](https://youtu.be/OjPT15y2EpE) |
 | 90 | [src](videos/090_match_statement_cst) | [The real purpose of Python's match statement, feat. CSTs](https://youtu.be/ASRqxDGutpA) |
+| 91 | [src](videos/091_lists_remember_what_you_did_to_them) | [Python lists remember what you did to them](https://youtu.be/rdlQzhP71pQ) |
