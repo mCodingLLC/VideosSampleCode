@@ -74,7 +74,7 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 60 | [src](videos/060_mathematically_perfect_tongue_twisters_python_linguistics) | [Mathematically Perfect Tongue Twisters \| Python Linguistics](https://youtu.be/VEfPpiBHNY0) |
 | 61 | [src](videos/061_time_to_hack_cracking_passwords_using_timing_information_secure_python) | [Time to Hack - Cracking passwords using timing information \| Secure Python](https://youtu.be/XThL0LP3RjY) |
 | 62 | [src](videos/062_python_fstrings_can_do_more_than_you_thought_dot__f_val__f_valr__f_dtymd_) | [Python f-strings can do more than you thought. f'{val=}', f'{val!r}', f'{dt:%Y-%m-%d}'](https://youtu.be/BxUxX1Ku1EQ) |
-| 63 | [src](videos/063_find_why_your_python_code_is_slow_using_this_essential_tool_dot___feat_dot__async_await_) | [Find why your Python code is slow using this essential tool. \(Feat. async/await\)](https://youtu.be/m_a0fN48Alw) |
+| 63 | [src](videos/063_find_why_your_python_code_is_slow_using_this_essential_tool_dot___feat_dot__async_await_) | [Diagnose slow Python code. \(Feat. async/await\)](https://youtu.be/m_a0fN48Alw) |
 | 64 | [src](videos/064_md5_a_broken_secure_hash_algorithm_python_implementation) | [MD5 - A broken secure hash algorithm \| Python implementation](https://youtu.be/HWpaz5XsECc) |
 | 65 | [src](videos/065_a_crypto_breakfast_salt_pepper_and_hash_secure_python) | [A crypto breakfast: salt, pepper, and hash \| Secure Python](https://youtu.be/FvstbO787Qo) |
 | 66 | [src](videos/066_how_an_x_becomes_a_bool_in_python_c_plus__plus__and_c) | [How an x becomes a bool in Python, C++, and C](https://youtu.be/fpN2ieYxXO0) |
