@@ -103,3 +103,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 89 | [src](videos/089_custom_linting_with_ast) | [Analyzing Python Code from Python - AST Parsing and  Custom Lint Checks](https://youtu.be/OjPT15y2EpE) |
 | 90 | [src](videos/090_match_statement_cst) | [The real purpose of Python's match statement, feat. CSTs](https://youtu.be/ASRqxDGutpA) |
 | 91 | [src](videos/091_lists_remember_what_you_did_to_them) | [Python lists remember what you did to them](https://youtu.be/rdlQzhP71pQ) |
+| 92 | [src](videos/092_pythonizing_imgui) | [Pythonizing Imgui (feat. Cython)](https://youtu.be/wh_W-veFpKU) |
