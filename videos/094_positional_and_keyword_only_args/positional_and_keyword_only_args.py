@@ -1,3 +1,7 @@
+import sys
+
+assert sys.version_info >= (3, 8), "positional-only arguments are a Python 3.8+ feature, upgrade your Python!"
+
 from timeit import timeit
 
 
