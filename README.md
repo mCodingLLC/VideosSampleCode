@@ -107,3 +107,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 93 | [src](videos/093_super_in_python) | [super, Python's most misunderstood feature.](https://youtu.be/X1PQ7zzltz4) |
 | 94 | [src](videos/094_positional_and_keyword_only_args) | [Positional-only and keyword-only arguments in Python](https://youtu.be/R8-oAqCgHag) |
 | 95 | [src](videos/095_method_chaining_and_self) | [Method Chaining Classes in Python](https://youtu.be/BY34Fe-2xgk) |
+| 96 | [src](videos/096_explicit_inherit_from_object) | [Why do some Python classes inherit from object?](https://youtu.be/vvuYPUbwAO0) |
