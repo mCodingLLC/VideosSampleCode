@@ -25,7 +25,7 @@ def manually_calling_close_on_a_file(filename):
     f.write("hello!\n")
     f.close()
 
-    with open(filename) as f:
+    with open(filename, "w") as f:
         f.write("hello!\n")
     # close automatic, even if exception
 
