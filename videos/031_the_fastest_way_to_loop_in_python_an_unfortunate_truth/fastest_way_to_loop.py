@@ -69,7 +69,7 @@ def sum_numpy_python_range(n=100_000_000):
 
 
 def sum_math(n=100_000_000):
-    return (n * (n - 1)) // 2
+    return (n * (n + 1)) // 2
 
 
 def main():
