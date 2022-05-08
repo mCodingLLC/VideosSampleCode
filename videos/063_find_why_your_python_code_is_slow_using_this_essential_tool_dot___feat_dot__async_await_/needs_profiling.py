@@ -32,7 +32,7 @@ async def better_count_https_in_web_pages():
         urls = [line.strip() for line in f.readlines()]
 
     async with httpx.AsyncClient() as client:
-        tasks = (client.get(url) for url in urls)
+        tasks = (client.get(url, follow_redirects=True) for url in urls)
         reqs = await asyncio.gather(*tasks)
 
     htmls = [req.text for req in reqs]
