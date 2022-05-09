@@ -108,3 +108,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 94 | [src](videos/094_positional_and_keyword_only_args) | [Positional-only and keyword-only arguments in Python](https://youtu.be/R8-oAqCgHag) |
 | 95 | [src](videos/095_method_chaining_and_self) | [Method Chaining Classes in Python](https://youtu.be/BY34Fe-2xgk) |
 | 96 | [src](videos/096_explicit_inherit_from_object) | [Why do some Python classes inherit from object?](https://youtu.be/vvuYPUbwAO0) |
+| 97 | [src](videos/097_two_arg_iter) | [Python's secret second argument to iter()](https://youtu.be/YC-12-0sXR8) |
