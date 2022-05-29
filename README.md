@@ -110,3 +110,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 96 | [src](videos/096_explicit_inherit_from_object) | [Why do some Python classes inherit from object?](https://youtu.be/vvuYPUbwAO0) |
 | 97 | [src](videos/097_two_arg_iter) | [Python's secret second argument to iter()](https://youtu.be/YC-12-0sXR8) |
 | 98 | [src](videos/098_itertools_permutations) | [Permutations - A Python itertools Algorithm](https://youtu.be/jUM_Dpt6yu0) |
+| 99 | [src](videos/099_sum_range_n_is_not_n_n_plus_one_over_two) | [sum(range(n)) != n(n+1)/2](https://youtu.be/BLb5R9QKbVs) |
