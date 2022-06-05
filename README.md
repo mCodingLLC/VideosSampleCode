@@ -111,3 +111,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 97 | [src](videos/097_two_arg_iter) | [Python's secret second argument to iter()](https://youtu.be/YC-12-0sXR8) |
 | 98 | [src](videos/098_itertools_permutations) | [Permutations - A Python itertools Algorithm](https://youtu.be/jUM_Dpt6yu0) |
 | 99 | [src](videos/099_sum_range_n_is_not_n_n_plus_one_over_two) | [sum(range(n)) != n(n+1)/2](https://youtu.be/BLb5R9QKbVs) |
+| 100 | [src](videos/100_dunder_del) | [Python's most DISLIKED \_\_dunder\_\_ (and what to use instead)](https://youtu.be/IFjuQmlwXgU) |
