@@ -113,3 +113,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 99 | [src](videos/099_sum_range_n_is_not_n_n_plus_one_over_two) | [sum(range(n)) != n(n+1)/2](https://youtu.be/BLb5R9QKbVs) |
 | 100 | [src](videos/100_dunder_del) | [Python's most DISLIKED \_\_dunder\_\_ (and what to use instead)](https://youtu.be/IFjuQmlwXgU) |
 | 101 | [src](videos/101_zip_dict) | [Use THIS for looping over several Python dictionaries](https://youtu.be/k2ZWyHdahEk) |
+| 102 | [src](videos/102_features_from_the_future) | [How to use Python features from future versions!](https://youtu.be/7CRybttp0Uc) |
