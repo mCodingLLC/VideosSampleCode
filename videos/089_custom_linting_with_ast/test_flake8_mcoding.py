@@ -17,7 +17,7 @@ def test_local_import_not_allowed():
         import json
     """)
     actual = get_errors(code)
-    expected = {'4:4 MCOD101'}
+    expected = {'4:4 MC101'}
     assert actual == expected
 
 
@@ -29,7 +29,7 @@ def test_nested_local_import_not_allowed():
             import json
     """)
     actual = get_errors(code)
-    expected = {'5:8 MCOD101'}
+    expected = {'5:8 MC101'}
     assert actual == expected
 
 
@@ -41,7 +41,7 @@ def test_local_import_inside_local_function_not_allowed():
             import json
     """)
     actual = get_errors(code)
-    expected = {'5:8 MCOD101'}
+    expected = {'5:8 MC101'}
     assert actual == expected
 
 
@@ -52,7 +52,7 @@ def test_local_from_import_not_allowed():
         from json import load
     """)
     actual = get_errors(code)
-    expected = {'4:4 MCOD101'}
+    expected = {'4:4 MC101'}
     assert actual == expected
 
 
@@ -67,7 +67,7 @@ def test_no_local_imports_multiple_errors_can_be_reported():
         import json
     """)
     actual = get_errors(code)
-    expected = {'3:4 MCOD101', '5:4 MCOD101', '8:4 MCOD101'}
+    expected = {'3:4 MC101', '5:4 MC101', '8:4 MC101'}
     assert actual == expected
 
 

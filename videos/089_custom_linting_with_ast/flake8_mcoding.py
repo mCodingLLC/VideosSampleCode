@@ -14,7 +14,7 @@ class Flake8ASTErrorInfo(NamedTuple):
 
 
 class LocalImportsNotAllowed:
-    msg = "MCOD101 local imports are not allowed"
+    msg = "MC101 local imports are not allowed"
 
     @classmethod
     def check(cls, node: ast.FunctionDef, errors: list[Flake8ASTErrorInfo]) -> None:
