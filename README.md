@@ -115,3 +115,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 101 | [src](videos/101_zip_dict) | [Use THIS for looping over several Python dictionaries](https://youtu.be/k2ZWyHdahEk) |
 | 102 | [src](videos/102_features_from_the_future) | [How to use Python features from future versions!](https://youtu.be/7CRybttp0Uc) |
 | 103 | [src](videos/103_for_in_terms_of_while) | [For loops are redundant](https://youtu.be/Xd760PcgfPg) |
+| 104 | [src](videos/104_multiprocessing_pool) | [Unlocking your CPU cores in Python (feat. multiprocessing)](https://youtu.be/X7vBbelRXn0) |
