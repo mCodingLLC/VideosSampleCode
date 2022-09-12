@@ -117,3 +117,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 103 | [src](videos/103_for_in_terms_of_while) | [For loops are redundant](https://youtu.be/Xd760PcgfPg) |
 | 104 | [src](videos/104_multiprocessing_pool) | [Unlocking your CPU cores in Python (feat. multiprocessing)](https://youtu.be/X7vBbelRXn0) |
 | 105 | [src](videos/105_for_else) | [Python's creator wishes this feature never existed](https://youtu.be/6Im38sF-sjo) |
+| 106 | [src](videos/106_str_int_conversion) | [str/int: Controversial breaking change added to Python](https://youtu.be/eTucYT2LpNU) |
