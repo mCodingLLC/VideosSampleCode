@@ -119,3 +119,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 105 | [src](videos/105_for_else) | [Python's creator wishes this feature never existed](https://youtu.be/6Im38sF-sjo) |
 | 106 | [src](videos/106_str_int_conversion) | [str/int: Controversial breaking change added to Python](https://youtu.be/eTucYT2LpNU) |
 | 107 | [src](videos/107_descriptors) | [8 things in Python you didn't realize are descriptors](https://youtu.be/mMbVs17Vmo4) |
+| 108 | [src](videos/108_python_generators) | [Python Generators](https://youtu.be/tmeKsb2Fras) |
