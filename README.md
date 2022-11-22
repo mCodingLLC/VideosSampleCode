@@ -122,3 +122,4 @@ It's not required, but I'd appreciate if you would link my YouTube channel if yo
 | 108 | [src](videos/108_python_generators) | [Python Generators](https://youtu.be/tmeKsb2Fras) |
 | 109 | [src](videos/109_python_311_release) | [It's time... for PYTHON 3.11!](https://youtu.be/ueTXYhtlnjA) |
 | 110 | [src](videos/110_rvo_and_copy_elision) | [Return Value Optimization and Copy Elision in C++](https://youtu.be/HNYOx-Vh_VA) |
+| 111 | [src](videos/111_python_closures) | [Functions within functions, closures, and variable scopes in Python](https://youtu.be/jXugs4B3lwU) |
