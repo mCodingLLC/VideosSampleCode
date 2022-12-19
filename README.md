@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N | Code | Video | 
 | -- | --- |--- |
+| 113 | [src](videos/113_getting_rid_of_recursion) | [Getting around the recursion limit](https://youtu.be/1dUpHL5Yg8E) |
 | 112 | [src](videos/112_python_name_mangling) | [Every Python dev falls for this (name mangling)](https://youtu.be/0hrEaA3N3lk) |
 | 111 | [src](videos/111_python_closures) | [Functions within functions, closures, and variable scopes in Python](https://youtu.be/jXugs4B3lwU) |
 | 110 | [src](videos/110_rvo_and_copy_elision) | [Return Value Optimization and Copy Elision in C++](https://youtu.be/HNYOx-Vh_VA) |
