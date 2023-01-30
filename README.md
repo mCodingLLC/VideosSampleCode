@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N | Code | Video | 
 | -- | --- |--- |
+| 116 | [src](videos/116_complex_fraction) | [Complex (Gaussian) Rationals - Extending Python's Number hierarchy](https://youtu.be/lcm4tYGmAig) |
 | 115 | [src](videos/115_fast_pow) | [Fast pow](https://youtu.be/GrNJE6ogyQU) |
 | 114 | [src](videos/114_copy_or_no_copy) | [Python Iterators! COPY or NO COPY?](https://youtu.be/hVFKy9Gw95c) |
 | 113 | [src](videos/113_getting_rid_of_recursion) | [Getting around the recursion limit](https://youtu.be/1dUpHL5Yg8E) |
