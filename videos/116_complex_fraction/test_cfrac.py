@@ -1,9 +1,9 @@
 import math
+from fractions import Fraction
 
 import pytest
 
 from cfrac import ComplexFraction
-from fractions import Fraction
 
 
 def test_construction():
