@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N | Code | Video | 
 | -- | --- |--- |
+| 120 | [src](videos/120_python_ternary_operator) | [Does Python have a ternary operator?](https://youtu.be/zjwhh2MEa0Q) |
 | 119 | [src](videos/119_more_nooby_python_habits) | [21 MORE nooby Python habits](https://youtu.be/E8NijUYfyus) |
 | 118 | [src](videos/118_strings_and_bytes) | [str vs bytes in Python](https://youtu.be/EimoZHDcQMA) |
 | 117 | [src](videos/117_hello_async) | [Intro to async Python \| Writing a Web Crawler](https://youtu.be/ftmdDlwMwwQ) |
