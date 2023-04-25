@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N | Code | Video | 
 | -- | --- |--- |
+| 122 | [src](videos/122_check_if_file_exists) | [How to check if a file exists in Python](https://youtu.be/V6IX3k8PDBc) |
 | 121 | [src](videos/121_unique_ptr) | [unique_ptr: C++'s simplest smart pointer](https://youtu.be/AmjoK55h68Y) |
 | 120 | [src](videos/120_python_ternary_operator) | [Does Python have a ternary operator?](https://youtu.be/zjwhh2MEa0Q) |
 | 119 | [src](videos/119_more_nooby_python_habits) | [21 MORE nooby Python habits](https://youtu.be/E8NijUYfyus) |
