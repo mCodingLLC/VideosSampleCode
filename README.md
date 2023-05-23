@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 124 | [src](videos/124_abc_collections) | [Python's collections.abc \| InvertibleDict](https://youtu.be/oUt1feRoyvI) |
 | 123 | [src](videos/123_unique_ptr_deleter) | [unique_ptr is NOT just for heap allocations \| custom deleters](https://youtu.be/mhCMtNWQ_CQ) |
 | 122 | [src](videos/122_check_if_file_exists) | [How to check if a file exists in Python](https://youtu.be/V6IX3k8PDBc) |
 | 121 | [src](videos/121_unique_ptr) | [unique_ptr: C++'s simplest smart pointer](https://youtu.be/AmjoK55h68Y) |
