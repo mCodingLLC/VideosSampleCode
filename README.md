@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 126 | [src](videos/126_attrs_revolution) | [Why I prefer attrs over dataclasses](https://youtu.be/1S2h11XronA) |
 | 125 | [src](videos/125_type_or_class) | [type(obj) vs. obj.__class__ in Python, and changing an object's class.](https://youtu.be/5vpdzRbfTIM) |
 | 124 | [src](videos/124_abc_collections) | [Python's collections.abc \| InvertibleDict](https://youtu.be/oUt1feRoyvI) |
 | 123 | [src](videos/123_unique_ptr_deleter) | [unique_ptr is NOT just for heap allocations \| custom deleters](https://youtu.be/mhCMtNWQ_CQ) |
