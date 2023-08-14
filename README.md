@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 127 | [src](videos/127_accidentally_quadratic_unique_sum) | [Don't make this big O mistake!](https://youtu.be/PXWL_Xzyrp4) |
 | 126 | [src](videos/126_attrs_revolution) | [Why I prefer attrs over dataclasses](https://youtu.be/1S2h11XronA) |
 | 125 | [src](videos/125_type_or_class) | [type(obj) vs. obj.__class__ in Python, and changing an object's class.](https://youtu.be/5vpdzRbfTIM) |
 | 124 | [src](videos/124_abc_collections) | [Python's collections.abc \| InvertibleDict](https://youtu.be/oUt1feRoyvI) |
