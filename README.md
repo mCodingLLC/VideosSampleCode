@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 129 | [src](videos/129_lambda_in_a_loop_is_a_code_smell) | [Lambda in a Loop is a Code Smell](https://youtu.be/fZE6ZWde-Os) |
 | 128 | [src](videos/128_id_mapping) | [A forbidden Python technique to put ANYTHING in a dict or set.](https://youtu.be/NpdNDTncxwA) |
 | 127 | [src](videos/127_accidentally_quadratic_unique_sum) | [Don't make this big O mistake!](https://youtu.be/PXWL_Xzyrp4) |
 | 126 | [src](videos/126_attrs_revolution) | [Why I prefer attrs over dataclasses](https://youtu.be/1S2h11XronA) |
