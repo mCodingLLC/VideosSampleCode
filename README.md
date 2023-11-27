@@ -12,6 +12,8 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 132 | [src](videos/132_bloom_filter) | [Bloom Filters](https://youtu.be/qZNJTh2NEiU) |
+| 131 | no src | [Actually, you CAN divide by zero.](https://youtu.be/eR23nPNqf6A) |
 | 130 | [src](videos/130_python_312_release) | [Python 3.12 is HERE!](https://youtu.be/8l4UWz48Elc) |
 | 129 | [src](videos/129_lambda_in_a_loop_is_a_code_smell) | [Lambda in a Loop is a Code Smell](https://youtu.be/fZE6ZWde-Os) |
 | 128 | [src](videos/128_id_mapping) | [A forbidden Python technique to put ANYTHING in a dict or set.](https://youtu.be/NpdNDTncxwA) |
