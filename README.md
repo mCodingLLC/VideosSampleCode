@@ -12,6 +12,8 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 135 | [src](videos/135_modern_logging) | [Modern Python logging](https://youtu.be/9L77QExPmI0) |
+| 134 | no src | [Why Zero times Anything is Zero](https://youtu.be/R1gxkjTJcmE) |
 | 133 | [src](videos/133_cloud_imports) | [You won't believe it! Import from the Cloud](https://youtu.be/2f7YKoOU6_g) |
 | 132 | [src](videos/132_bloom_filter) | [Bloom Filters](https://youtu.be/qZNJTh2NEiU) |
 | 131 | no src | [Actually, you CAN divide by zero.](https://youtu.be/eR23nPNqf6A) |

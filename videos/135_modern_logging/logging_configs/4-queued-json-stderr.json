@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "json": {
+      "()": "mylogger.MyJSONFormatter",
+      "fmt_keys": {
+        "level": "levelname",
+        "message": "message",
+        "timestamp": "timestamp",
+        "logger": "name",
+        "module": "module",
+        "function": "funcName",
+        "line": "lineno",
+        "thread_name": "threadName"
+      }
+    }
+  },
+  "handlers": {
+    "stderr": {
+      "class": "logging.StreamHandler",
+      "level": "WARNING",
+      "formatter": "json",
+      "stream": "ext://sys.stderr"
+    },
+    "queue_handler": {
+      "class": "logging.handlers.QueueHandler",
+      "handlers": [
+        "stderr"
+      ],
+      "respect_handler_level": true
+    }
+  },
+  "loggers": {
+    "root": {
+      "level": "DEBUG",
+      "handlers": [
+        "queue_handler"
+      ]
+    }
+  }
+}

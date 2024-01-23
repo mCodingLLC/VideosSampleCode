@@ -1,0 +1,11 @@
+[DEBUG|main|L25] 2024-01-23T09:20:09-0600: debug message
+[INFO|main|L26] 2024-01-23T09:20:09-0600: info message
+[WARNING|main|L27] 2024-01-23T09:20:09-0600: warning message
+[ERROR|main|L28] 2024-01-23T09:20:09-0600: error message
+[CRITICAL|main|L29] 2024-01-23T09:20:09-0600: critical message
+[ERROR|main|L33] 2024-01-23T09:20:09-0600: exception message
+Traceback (most recent call last):
+  File "C:\Users\James\PycharmProjects\VideosSampleCode\videos\135_modern_logging\main.py", line 31, in main
+    1 / 0
+    ~~^~~
+ZeroDivisionError: division by zero

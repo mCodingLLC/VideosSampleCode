@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "disable_existing_loggers": false,
+  "formatters": {
+    "simple": {
+      "format": "%(levelname)s: %(message)s",
+      "datefmt": "%Y-%m-%dT%H:%M:%S%z"
+    }
+  },
+  "filters": {
+    "no_errors": {
+      "()": "mylogger.NonErrorFilter"
+    }
+  },
+  "handlers": {
+    "stdout": {
+      "class": "logging.StreamHandler",
+      "formatter": "simple",
+      "stream": "ext://sys.stdout",
+      "filters": ["no_errors"]
+    },
+    "stderr": {
+      "class": "logging.StreamHandler",
+      "formatter": "simple",
+      "stream": "ext://sys.stderr",
+      "level": "WARNING"
+    }
+  },
+  "loggers": {
+    "root": {
+      "level": "DEBUG",
+      "handlers": [
+        "stdout",
+        "stderr"
+      ]
+    }
+  }
+}
