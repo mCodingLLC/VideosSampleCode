@@ -1,0 +1,152 @@
+[
+    {
+      "name": "spaghetti bolognese",
+      "ingredients": [
+        {"name": "ground beef", "quantity": "1 lb"},
+        {"name": "onion", "quantity": "1", "style": "finely chopped"},
+        {"name": "garlic", "quantity": "3 cloves", "style": "minced"},
+        {"name": "crushed tomatoes", "quantity": "28 oz can"},
+        {"name": "tomato paste", "quantity": "2 tbsp"},
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "dried oregano", "quantity": "1 tsp"},
+        {"name": "dried basil", "quantity": "1 tsp"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"},
+        {"name": "spaghetti", "quantity": "12 oz", "style": "cooked"}
+      ]
+    },
+    {
+      "name": "chicken caesar salad",
+      "ingredients": [
+        {"name": "chicken breasts", "quantity": "2", "style": "grilled and sliced"},
+        {"name": "romaine lettuce", "quantity": "1 head", "style": "chopped"},
+        {"name": "croutons", "quantity": "1 cup"},
+        {"name": "parmesan cheese", "quantity": "1/2 cup", "style": "grated"},
+        {"name": "caesar dressing", "quantity": "1/2 cup"},
+        {"name": "lemon juice", "quantity": "2 tbsp"},
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "name": "vegetarian stir-fry",
+      "ingredients": [
+        {"name": "tofu", "quantity": "1 lb", "style": "cubed"},
+        {"name": "broccoli", "quantity": "2 cups", "style": "florets"},
+        {"name": "carrots", "quantity": "2", "style": "sliced"},
+        {"name": "bell peppers", "quantity": "2", "style": "sliced"},
+        {"name": "soy sauce", "quantity": "1/4 cup"},
+        {"name": "sesame oil", "quantity": "2 tbsp"},
+        {"name": "garlic", "quantity": "2 cloves", "style": "minced"},
+        {"name": "ginger", "quantity": "1 tsp", "style": "grated"},
+        {"name": "brown rice", "quantity": "2 cups", "style": "cooked"},
+        {"name": "green onions", "quantity": "1/4 cup", "style": "chopped"}
+      ]
+    },
+    {
+      "name": "margherita pizza",
+      "ingredients": [
+        {"name": "pizza dough", "quantity": "1 lb"},
+        {"name": "tomatoes", "quantity": "3", "style": "thinly sliced"},
+        {"name": "fresh mozzarella", "quantity": "8 oz", "style": "sliced"},
+        {"name": "fresh basil leaves", "quantity": "1/2 cup"},
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "garlic", "quantity": "2 cloves", "style": "minced"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "name": "shrimp scampi",
+      "ingredients": [
+        {"name": "shrimp", "quantity": "1 lb", "style": "peeled and deveined"},
+        {"name": "linguine", "quantity": "8 oz", "style": "cooked"},
+        {"name": "garlic", "quantity": "4 cloves", "style": "minced"},
+        {"name": "white wine", "quantity": "1/2 cup"},
+        {"name": "lemon juice", "quantity": "2 tbsp"},
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "red pepper flakes", "quantity": "1/2 tsp"},
+        {"name": "parsley", "quantity": "1/4 cup", "style": "chopped"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "name": "beef tacos",
+      "ingredients": [
+        {"name": "ground beef", "quantity": "1 lb"},
+        {"name": "taco seasoning", "quantity": "1 packet"},
+        {"name": "tortillas", "quantity": "8"},
+        {"name": "lettuce", "quantity": "1 cup", "style": "shredded"},
+        {"name": "tomatoes", "quantity": "2", "style": "diced"},
+        {"name": "cheddar cheese", "quantity": "1 cup", "style": "shredded"},
+        {"name": "sour cream", "quantity": "1/2 cup"},
+        {"name": "salsa", "quantity": "1/2 cup"},
+        {"name": "avocado", "quantity": "1", "style": "sliced"},
+        {"name": "cilantro", "quantity": "1/4 cup", "style": "chopped"}
+      ]
+    },
+    {
+      "name": "minestrone soup",
+      "ingredients": [
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "onion", "quantity": "1", "style": "diced"},
+        {"name": "carrots", "quantity": "2", "style": "sliced"},
+        {"name": "celery", "quantity": "2 stalks", "style": "chopped"},
+        {"name": "garlic", "quantity": "3 cloves", "style": "minced"},
+        {"name": "tomatoes", "quantity": "2", "style": "diced"},
+        {"name": "kidney beans", "quantity": "1 can", "style": "drained and rinsed"},
+        {"name": "zucchini", "quantity": "1", "style": "diced"},
+        {"name": "green beans", "quantity": "1 cup", "style": "chopped"},
+        {"name": "vegetable broth", "quantity": "8 cups"},
+        {"name": "italian seasoning", "quantity": "1 tsp"},
+        {"name": "pasta", "quantity": "1 cup", "style": "cooked"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "name": "chicken quesadillas",
+      "ingredients": [
+        {"name": "chicken breasts", "quantity": "2", "style": "cooked and shredded"},
+        {"name": "tortillas", "quantity": "4"},
+        {"name": "cheddar cheese", "quantity": "1 cup", "style": "shredded"},
+        {"name": "onion", "quantity": "1", "style": "finely chopped"},
+        {"name": "bell peppers", "quantity": "1", "style": "sliced"},
+        {"name": "sour cream", "quantity": "1/2 cup"},
+        {"name": "salsa", "quantity": "1/2 cup"},
+        {"name": "guacamole", "quantity": "1/2 cup"},
+        {"name": "olive oil", "quantity": "2 tbsp"},
+        {"name": "cilantro", "quantity": "1/4 cup", "style": "chopped"}
+      ]
+    },
+    {
+      "name": "salmon with lemon-dill sauce",
+      "ingredients": [
+        {"name": "salmon fillets", "quantity": "4"},
+        {"name": "lemon", "quantity": "1", "style": "sliced"},
+        {"name": "fresh dill", "quantity": "2 tbsp", "style": "chopped"},
+        {"name": "butter", "quantity": "4 tbsp"},
+        {"name": "garlic", "quantity": "2 cloves", "style": "minced"},
+        {"name": "salt", "quantity": "to taste"},
+        {"name": "black pepper", "quantity": "to taste"}
+      ]
+    },
+    {
+      "name": "vegetable curry",
+      "ingredients": [
+        {"name": "mixed vegetables", "quantity": "4 cups"},
+        {"name": "coconut milk", "quantity": "1 can"},
+        {"name": "onion", "quantity": "1", "style": "chopped"},
+        {"name": "garlic", "quantity": "3 cloves", "style": "minced"},
+        {"name": "ginger", "quantity": "1 tbsp", "style": "grated"},
+        {"name": "curry powder", "quantity": "2 tbsp"},
+        {"name": "turmeric", "quantity": "1 tsp"},
+        {"name": "cayenne pepper", "quantity": "1/2 tsp"},
+        {"name": "vegetable broth", "quantity": "1 cup"},
+        {"name": "basmati rice", "quantity": "2 cups", "style": "cooked"}
+      ]
+    }
+  ]
+  

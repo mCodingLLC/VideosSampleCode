@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 136 | [src](videos/136_python_debugging) | [Python Debugging (PyCharm + VS Code)](https://youtu.be/COa-JHYuW3M) |
 | 135 | [src](videos/135_modern_logging) | [Modern Python logging](https://youtu.be/9L77QExPmI0) |
 | 134 | no src | [Why Zero times Anything is Zero](https://youtu.be/R1gxkjTJcmE) |
 | 133 | [src](videos/133_cloud_imports) | [You won't believe it! Import from the Cloud](https://youtu.be/2f7YKoOU6_g) |
