@@ -12,6 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
+| 137 | [src](videos/137_context_managers) | [The ins and outs of context managers and try-finally in Python](https://youtu.be/LBJlGwJ899Y) |
 | 136 | [src](videos/136_python_debugging) | [Python Debugging (PyCharm + VS Code)](https://youtu.be/COa-JHYuW3M) |
 | 135 | [src](videos/135_modern_logging) | [Modern Python logging](https://youtu.be/9L77QExPmI0) |
 | 134 | no src | [Why Zero times Anything is Zero](https://youtu.be/R1gxkjTJcmE) |
