@@ -12,7 +12,7 @@ James and his team are available for consulting, contracting, code reviews, and 
 
 | N   | Code | Video | 
 |-----| --- |--- |
-| 147 | [src](videos/147_local_llm) | [Run a Large Language Model (LLM) at home on your GPU](https://youtu.be/b0HMimUb4f0) |
+| 147 | [src](videos/147_local_llm) | [Run a Large Language Model (LLM) at home on your GPU](https://youtu.be/RejIVgfER-4) |
 | 146 | [src](videos/146_docker_tutorial) | [Docker Tutorial for Beginners](https://youtu.be/b0HMimUb4f0) |
 | 145 | [src](videos/145_all_itertools) | [Python itertools - The key to mastering iteration](https://youtu.be/1p7xa_BHYDs) |
 | 144 | [src](videos/144_all_builtin_python_builtin_functions) | [All 71 built-in Python functions](https://youtu.be/7Qu_KXc7xSI) |
